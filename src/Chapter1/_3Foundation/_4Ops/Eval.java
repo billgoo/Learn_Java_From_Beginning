@@ -1,4 +1,4 @@
-package Chapter3._3Foundation._4Ops;
+package Chapter1._3Foundation._4Ops;
 
 // 3.4.1 赋值运算符
 public class Eval {

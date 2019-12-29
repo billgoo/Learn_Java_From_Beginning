@@ -1,4 +1,4 @@
-package Chapter3._4FlowControl._6Practice;
+package Chapter1._4FlowControl._6Practice;
 /**
  * 打印菱形
  */

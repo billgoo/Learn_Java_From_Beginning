@@ -1,4 +1,4 @@
-package Chapter3._3Foundation._3VarConstant;
+package Chapter1._3Foundation._3VarConstant;
 
 public class Val {
     static int times = 3;

@@ -1,4 +1,4 @@
-package Chapter3._3Foundation._4Ops;
+package Chapter1._3Foundation._4Ops;
 
 public class Arith {
     public static void main(String[] args) {

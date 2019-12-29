@@ -1,4 +1,4 @@
-package Chapter3._3Foundation._5TypeTransfer;
+package Chapter1._3Foundation._5TypeTransfer;
 
 public class Conver {
     public static void main(String[] args) {

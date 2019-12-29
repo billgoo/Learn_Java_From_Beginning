@@ -1,4 +1,4 @@
-package Chapter3._4FlowControl._3Loop;
+package Chapter1._4FlowControl._3Loop;
 
 public class Repetition {
     public static void main(String[] args) {
