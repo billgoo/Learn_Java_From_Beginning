@@ -1,4 +1,4 @@
-package Chapter1._5String._1String;
+package Chapter1._5String._2LinkString;
 
 public class Join {
     public static void main(String[] args) {
