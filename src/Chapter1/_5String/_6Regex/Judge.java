@@ -1,6 +1,6 @@
-package Chapter1._5String._5Format;
+package Chapter1._5String._6Regex;
 
-public interface Judge {
+public class Judge {
     public static void main(String[] args) {
         String regex = "\\w+@+\\w+(\\.\\w{2,3})*\\.\\w{2,3}";   // 加号之间不能有空格，不然不会匹配
         String str1 = "aaa@";
