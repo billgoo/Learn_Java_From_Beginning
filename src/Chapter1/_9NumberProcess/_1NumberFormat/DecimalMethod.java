@@ -12,5 +12,9 @@ public class DecimalMethod {
         myFormat.setGroupingUsed(false);
         String output2 = myFormat.format(123456.789);
         System.out.println(output2);
+        /**
+         * 12,34,56.789
+         * 123456.789
+         */
     }
 }
