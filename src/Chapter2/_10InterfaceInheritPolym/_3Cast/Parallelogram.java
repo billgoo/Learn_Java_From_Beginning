@@ -15,5 +15,12 @@ public class Parallelogram extends Quadrangle {     // 平行四边形类
          *
          * 对象向上转型的例子
          */
+
+        /**
+        * Quadrangle q = new Parallelogram();
+        * Parallelogram p = q;    // 报错
+        * // 要使用显示类型转换才行
+        * Parallelogram p = (Parallelogram) q;
+        */
     }
 }
