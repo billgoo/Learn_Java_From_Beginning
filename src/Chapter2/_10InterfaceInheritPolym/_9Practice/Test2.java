@@ -1,4 +1,5 @@
 package Chapter2._10InterfaceInheritPolym._9Practice;
+
 class Parent {
     public void fuckAZ(){
         System.out.println("父类.fuckAZ()");
